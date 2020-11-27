@@ -2,7 +2,7 @@ package DBconnectivity;
 
 import java.sql.*;
 
-public class ConnectToDB {
+public class ConnectToDB {   // add a comment
 
     public static void main(String[] args) {
 
